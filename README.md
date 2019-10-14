@@ -18,14 +18,14 @@ _fastlane_ is a tool for iOS and Android developers to automate tedious tasks li
 </h2>
 <hr />
 
-## Need Help?
+## Need Help???
 
 Before submitting a new GitHub issue, please make sure to
 
 - Check out [docs.fastlane.tools](https://docs.fastlane.tools)
 - Search for [existing GitHub issues](https://github.com/fastlane/fastlane/issues)
 
-If the above doesn't help, please [submit an issue](https://github.com/fastlane/fastlane/issues) on GitHub and provide information about your setup, in particular the output of the `fastlane env` command.
+If the above doesn't help, please [submit your queries](https://github.com/fastlane/fastlane/issues) on GitHub and provide information about your setup, in particular the output of the `fastlane env` command.
 
 **Note**: If you want to report a regression in _fastlane_ (something that has worked before, but broke with a new release), please mark your issue title as such using `[Regression] Your title here`. This enables us to quickly detect and fix regressions.
 
